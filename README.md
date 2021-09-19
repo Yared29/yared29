@@ -1,13 +1,13 @@
 
-<h3 align="center">Hey there, I'm <a href="https://yared.vercel.app.com/">Yared</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="yared.vercel.app.com/">Yared</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 * 💻 I'm a full stack web developer
 * 📱 I make apps for Android and iOS with Flutter
 * 🎓 I'm a Computer Science student (graduating in October 2022)
-* 🌐 You can see some of my projects on [my portfolio](https://yared.vercel.app/)
+* 🌐 You can see some of my projects on [my portfolio](yared.vercel.app/)
 
 <p align="left">
-  <a href="https://yared.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="yared.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://flutter.dev target="_blank"> <img width ='32px' src ='https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg'> </a>
