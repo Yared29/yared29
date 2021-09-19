@@ -4,7 +4,7 @@
 * 💻 I'm a full stack web developer
 * 📱 I make apps for Android and iOS with Flutter
 * 🎓 I'm a Computer Science student (graduating in October 2022)
-* 🌐 You can see some of my projects on [my portfolio](yared.vercel.app/)
+* 🌐 You can see some of my projects on [my portfolio](http://yared.vercel.app)
 
 <p align="left">
   <a href= http://yared.vercel.app ><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
