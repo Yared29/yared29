@@ -4,7 +4,7 @@
 * 💻 I'm a full stack web developer
 * 📱 I make apps for Android and iOS with Flutter
 * 🎓 I'm a Computer Science graduate
-* 🌱 I’m currently learning Storybook.
+* 🌱 I’m currently learning Django.
 * 🌐 You can see some of my projects on  <a href= http://yared.vercel.app  target="__blank" rel="noopener noreferrer">[my portfolio](http://yared.vercel.app)</a>
 
 <p align="left">
