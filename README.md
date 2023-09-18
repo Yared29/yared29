@@ -1,10 +1,7 @@
 
 <h3 align="center">Hey there, I'm <a href= http://yared.vercel.app >Yared</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-* 💻 I'm a full stack web developer
-* 📱 I make apps for Android and iOS with Flutter
-* 🎓 I'm a Computer Science graduate
-* 🌱 I’m currently learning Django.
+* 💻 I'm a full stack web developer 
 * 🌐 You can see some of my projects on  <a href= http://yared.vercel.app  target="__blank" rel="noopener noreferrer">[my portfolio](http://yared.vercel.app)</a>
 
 <p align="left">
